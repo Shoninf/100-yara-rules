@@ -1,4 +1,4 @@
-rule xloader_formbook : tag1 tag2
+rule xloader_formbook :
 {
     meta:
         author = "Виктор"
