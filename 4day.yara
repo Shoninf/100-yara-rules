@@ -1,4 +1,4 @@
-rule droper_purerat_purelogs : tag1 tag2
+rule droper_purerat_purelogs :
 {
     meta:
         author = "Shoninf"
