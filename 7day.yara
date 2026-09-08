@@ -3,7 +3,7 @@ rule vanta_core_asgard_wolf :
     meta:
         author = "Shoninf"
         description = "Обнаруживает артефакты, связанные с утечкой данных VantaCore/Asgard Wolf (ООО Севернефтегазпром)"
-        date = "2026-09-08"
+        date = "2026-09-07"
         reference = "https://gti.bi.zone/search/darkweb#darkweb%3A38774205-471e-435a-8126-aeec5f05f502"
 
     strings:
