@@ -3,7 +3,7 @@ rule Stealer_Clipper_Simple :
     meta:
         author = "Shoninf"
         description = "Обнаруживает стилер и клиппер с доставкой через Telegram"
-        date = "2026-09-11"
+        date = "2026-09-10"
         reference = "https://gti.bi.zone/search/darkweb#darkweb%3A6c5d658f-0091-48d0-a64c-2b2169495c1e"
 
     strings:
