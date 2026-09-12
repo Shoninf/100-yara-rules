@@ -1,4 +1,4 @@
-rule GrimGazer_WatchWolf : rat
+rule GrimGazer_WatchWolf :
 {
     meta:
         author = "Shoninf"
