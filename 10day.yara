@@ -28,4 +28,4 @@ rule GrimGazer_WatchWolf :
             $f1 or $f2 or $d1 or $d2 or
             ($r1 and $r2) or $c1 or $a1 or $s1
         )
-}
+} 
